@@ -1,0 +1,28 @@
+.row{
+    margin: 0px;
+}
+.my_navbar{
+    background-color: burlywood;
+    min-height: 80px;
+    text-align: center;
+   
+}
+
+.my_navbar ul{
+    list-style-type: none;
+    display: inline-block;
+     
+}
+
+.my_navbar ul li{
+   display: inline-block; 
+   padding: 22px 17px;  
+   font-size: 15px;
+}
+
+.Test_section{
+    min-height: 87vh;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
